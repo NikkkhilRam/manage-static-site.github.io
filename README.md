@@ -1,0 +1,1 @@
+# manage-static-site.github.io
